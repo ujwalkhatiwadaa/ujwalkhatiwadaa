@@ -6,7 +6,6 @@ I’m passionate about coding, problem-solving, and building projects that make 
 ---
 
 ## 🛠 Skills
----
 - **Languages:** JavaScript, C, PHP, Python  
 - **Frontend:** React.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express, Supabase, MySQL  
@@ -15,7 +14,6 @@ I’m passionate about coding, problem-solving, and building projects that make 
 ---
 
 ## 📂 Projects
----
 1. **[Focus Point Driving School](https://focuspointdrivingschool.com.np/)**  
    → A web app with authentication, dashboard, and smooth UI/UX.  
 
@@ -28,7 +26,6 @@ I’m passionate about coding, problem-solving, and building projects that make 
 ---
 
 ## ✨ Extras
----
 - 🎯 Open to collaborations on interesting projects.  
 - 📚 Currently exploring **Networking & Full Stack Development**.  
 - 🌱 Always learning and improving coding skills.  
