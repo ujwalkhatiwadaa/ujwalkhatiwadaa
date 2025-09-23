@@ -1,6 +1,6 @@
 # Hi, I'm [Ujwal]
 
-Welcome to my GitHub profile! 🚀  
+Welcome to my GitHub profile! 
 I’m passionate about coding, problem-solving, and building projects that make an impact.
 
 ---
