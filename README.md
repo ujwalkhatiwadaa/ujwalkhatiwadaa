@@ -15,13 +15,13 @@ I’m passionate about coding, problem-solving, and building projects that make 
 
 ## 📂 Projects
 1. **[Focus Point Driving School](https://focuspointdrivingschool.com.np/)**  
-   → A web app with authentication, dashboard, and smooth UI/UX.  
+   - A web app with authentication, dashboard, and smooth UI/UX.  
 
 2. **Student Management System**  
-   → Role-based authentication (Admin & Student dashboards).  
+   - Role-based authentication (Admin & Student dashboards).  
 
 3. **[Portfolio Website](https://ujwalkhatiwada.com.np/)**  
-   → Personal portfolio showcasing my work and skills.  
+   - Personal portfolio showcasing my work and skills.  
 
 ---
 
@@ -34,6 +34,6 @@ I’m passionate about coding, problem-solving, and building projects that make 
 
 ## 📫 Connect with Me
 ---
-- GitHub: [YourGitHub](https://github.com/ujwalkhatiwadaa)  
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/ujwalkhatiwadaa)  
+- GitHub: [Ujwal Khatiwada](https://github.com/ujwalkhatiwadaa)  
+- LinkedIn: [Ujwal Khatiwada](https://linkedin.com/in/ujwalkhatiwadaa)  
 - Email: ujwalkhatiwadaa@gmail.com  
