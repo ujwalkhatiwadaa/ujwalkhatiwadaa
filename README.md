@@ -6,7 +6,7 @@ I’m passionate about coding, problem-solving, and building projects that make 
 ---
 
 ## 🛠 Skills
-- **Languages:** JavaScript, C, PHP, Python  
+- **Languages:** JavaScript, C, PHP  
 - **Frontend:** React.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Express, Supabase, MySQL  
 - **Other Tools:** Git, GitHub, VS Code  
