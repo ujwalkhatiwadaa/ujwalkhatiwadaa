@@ -17,10 +17,10 @@ I’m passionate about coding, problem-solving, and building projects that make 
 1. **[Focus Point Driving School](https://focuspointdrivingschool.com.np/)**  
    - A web app with authentication, dashboard, and smooth UI/UX.  
 
-2. **Student Management System**  
+2. **[Student Management System](https://school-management.codewithujwal.xyz/)**   
    - Role-based authentication (Admin & Student dashboards).  
 
-3. **[Portfolio Website](https://ujwalkhatiwada.com.np/)**  
+3. **[Portfolio Website](https://codewithujwal.xyz/)**  
    - Personal portfolio showcasing my work and skills.  
 
 ---
