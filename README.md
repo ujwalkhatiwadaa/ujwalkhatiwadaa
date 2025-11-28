@@ -33,7 +33,6 @@ I’m passionate about coding, problem-solving, and building projects that make 
 ---
 
 ##  Connect with Me
-- GitHub: [Ujwal Khatiwada](https://github.com/ujwalkhatiwadaa)  
 - LinkedIn: [Ujwal Khatiwada](https://linkedin.com/in/ujwalkhatiwadaa)  
 - Email: ujwalkhatiwadaa@gmail.com  
 ---
