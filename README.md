@@ -15,8 +15,8 @@ I’m passionate about coding, problem-solving, and building projects that make 
 
 ## Projects
 1. **[Focus Point Driving School](https://focuspointdrivingschool.com.np/)**  
-   - A web app with authentication, dashboard, and smooth UI/UX.  
-
+   - Website for a Jhapa-based driving school showcasing lessons, courses, and contact info.
+     
 2. **[Student Management System](https://school-management.codewithujwal.xyz/)**   
    - Role-based authentication (Admin & Student dashboards).  
 
