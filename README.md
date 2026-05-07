@@ -21,7 +21,7 @@ I’m passionate about coding, problem-solving, and building projects that make 
 2. **[Student Management System](https://school-management.codewithujwal.xyz/)**   
    - Role-based authentication (Admin & Student dashboards).  
 
-3. **[Portfolio Website](https://codewithujwal.xyz/)**  
+3. **[Portfolio Website](https://ujwalkhatiwada.com.np/)**  
    - Personal portfolio showcasing my work and skills.  
 
 ---
