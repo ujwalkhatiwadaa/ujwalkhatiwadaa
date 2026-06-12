@@ -12,6 +12,7 @@ I’m passionate about coding, problem-solving, and building projects that make 
 - **Backend:** Node.js, Express, Supabase, MySQL  
 - **Other Tools:** Git, GitHub, VS Code  
 
+<!--
 ---
 
 ## Projects
@@ -23,7 +24,7 @@ I’m passionate about coding, problem-solving, and building projects that make 
 
 3. **[Portfolio Website](https://ujwalkhatiwada.com.np/)**  
    - Personal portfolio showcasing my work and skills.  
-
+-->
 ---
 
 ## Extras
