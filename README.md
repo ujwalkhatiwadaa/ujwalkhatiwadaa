@@ -85,7 +85,7 @@ Website for a Jhapa-based driving school covering courses, lessons, and enquirie
 **[Portfolio](https://ujwalkhatiwada.com.np/)** — Where the rest of it lives.
 
 ---
-
+<!--
 ### GitHub
 
 <p align="center">
@@ -94,7 +94,7 @@ Website for a Jhapa-based driving school covering courses, lessons, and enquirie
 </p>
 
 ---
-
+--> 
 <p align="center">
   <sub>Open to collaboration and freelance work — reach me at
   <a href="mailto:ujwalkhatiwadaa@gmail.com">ujwalkhatiwadaa@gmail.com</a></sub>
