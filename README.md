@@ -8,10 +8,10 @@
 <p align="center">
   <a href="https://ujwalkhatiwada.com.np/">
     <img src="https://img.shields.io/badge/Portfolio-ujwalkhatiwada.com.np-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> </br>
   <a href="https://linkedin.com/in/ujwalkhatiwadaa">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> </br>
   <a href="mailto:ujwalkhatiwadaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
