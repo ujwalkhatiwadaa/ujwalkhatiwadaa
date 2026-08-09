@@ -5,7 +5,7 @@
   from database schema to deployed interface.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://ujwalkhatiwada.com.np/">
     <img src="https://img.shields.io/badge/Portfolio-ujwalkhatiwada.com.np-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a> </br>
